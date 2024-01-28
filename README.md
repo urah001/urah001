@@ -1,3 +1,4 @@
+## ABOUT 
 - 👋 Hi, I’m @kill-switch-pro
 - 👀 I’m interested in programming & tech
 - 🌱 I’m currently learning JavaScript and its family 
