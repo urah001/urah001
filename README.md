@@ -7,7 +7,7 @@
  .
  
 ## VISITOR COUNT : 
-   ![Visitor Count](https://profile-counter.glitch.me/{kill-switch-pro}/count.svg)
+                    ![Visitor Count](https://profile-counter.glitch.me/{kill-switch-pro}/count.svg)
 <!---
 kill-switch-pro/kill-switch-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
