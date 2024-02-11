@@ -18,10 +18,10 @@
 
 ### Get in Touch
 
-🌐 Website: [my Website] : [https://urah-portfolio.netlify.app]
-📧 Email: [my Email] : stephensamuel063@gmail.com
+🌐 Website: https://urah-portfolio.netlify.app
+📧 Email: stephensamuel063@gmail.com
 🔗 LinkedIn: [Your LinkedIn Profile]
-🐦 Twitter: [twitter] [https://twitter.com/PsalmWell]
+🐦 Twitter:[https://twitter.com/PsalmWell]
 
 ### Let's Connect
 
