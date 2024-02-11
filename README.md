@@ -24,7 +24,7 @@
 
 🔗 
 
-🐦 Twitter:[https://twitter.com/PsalmWell]
+🐦 Twitter: https://twitter.com/PsalmWell
 
 ### Let's Connect
 
