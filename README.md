@@ -2,7 +2,7 @@
 
 ### About Me
 
-🌟 Hello there! I'm urah aka W3B, a passionate web developer, cybersecurity enthusiast, and full-stack developer based AFRICA. Welcome to my GitHub profile!
+🌟 Hello there! I'm urah aka W3B, a passionate web developer, cybersecurity enthusiast, and full-stack developer . Welcome to my GitHub profile!
 
 🚀 As a web development enthusiast, I thrive on crafting dynamic and engaging web experiences. I'm deeply in love with JavaScript and its family of technologies, constantly exploring the latest trends and pushing the boundaries of what's possible on the web.
 
