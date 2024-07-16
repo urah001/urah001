@@ -18,11 +18,9 @@
 
 ### Get in Touch
 
-🌐 Website: https://urah-portfolio.netlify.app
+🌐 Website: https://urah-portfolio.vercel.app
 
 📧 Email: stephensamuel063@gmail.com
-
-🔗 
 
 🐦 Twitter: https://twitter.com/PsalmWell
 
