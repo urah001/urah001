@@ -18,7 +18,7 @@
 
 ### Get in Touch
 
-🌐 Website:[link]website(https://urah.vercel.app)
+🌐 Website:[link](https://urah.vercel.app):website
 
 📧 Email: stephensamuel063@gmail.com
 
