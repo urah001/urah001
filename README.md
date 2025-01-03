@@ -18,11 +18,11 @@
 
 ### Get in Touch
 
-🌐 Website:[link](https://urah.vercel.app):website
+🌐 Website:[link](https://urah.vercel.app)
 
-📧 Email: stephensamuel063@gmail.com
+📧 Email:[link](stephensamuel063@gmail.com)
 
-🐦 Twitter: https://twitter.com/PsalmWell
+🐦 Twitter:[link](https://twitter.com/PsalmWell)
 
 ### Let's Connect
 
