@@ -20,7 +20,7 @@
 
 🌐 Website:[link](https://urah.vercel.app)
 
-📧 Email:[link](stephensamuel063@gmail.com)
+📧 Email:[mail](stephensamuel063@gmail.com)
 
 🐦 Twitter:[link](https://twitter.com/PsalmWell)
 
