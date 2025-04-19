@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F144&width=435&lines=Hello+world%2C+welcome+to+URAH+page)](https://git.io/typing-svg)\
-[![URAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=urah001&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![URAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=urah001&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 # Hello, World! 👋
@@ -9,11 +9,12 @@
 🌟 Hello there! I'm urah aka W3B, a passionate web developer, cybersecurity enthusiast, and full-stack developer . Welcome to my GitHub profile!
 
 🚀 As a web development enthusiast, I thrive on crafting dynamic and engaging web experiences. I'm deeply in love with JavaScript and its family of technologies, constantly exploring the latest trends and pushing the boundaries of what's possible on the web.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urah001&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 🔒 Beyond web development, I'm also deeply fascinated by the world of cybersecurity. As a cybersecurity student, I'm always seeking to deepen my understanding of digital security practices and stay ahead of emerging threats.
 
 💼 Currently, I'm honing my skills as a full-stack intern, where I have the opportunity to work with both frontend and backend technologies. Whether it's crafting pixel-perfect UIs or architecting robust server-side solutions, I'm always eager to tackle new challenges and expand my skill set.
-
+[![URAH's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=urah001)](https://github.com/anuraghazra/github-readme-stats)
 ### What You'll Find Here
 
 📚 In this corner of the internet, you'll find an eclectic mix of projects reflecting my journey as a developer and cybersecurity enthusiast. From web applications showcasing my frontend prowess to security-focused tools and resources, there's a little something for everyone.
