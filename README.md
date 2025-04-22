@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F144&width=435&lines=Hello+world%2C+welcome+to+URAH+page)](https://git.io/typing-svg)\
-[![URAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=urah001&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![URAH's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W3B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![URAH's GitHub stats](https://github-readme-stats.vercel.app/api?username=urah001&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![URAH's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W3B&show=discussions_started,discussions_answered&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Hello, World! 👋
